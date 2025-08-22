@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@puppy.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "user@puppy.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "puppies": [
+    {
+      "id": "5f44",
+      "name": "Leo",
+      "age": "2 mesi",
+      "description": " È stato trovato mentre vagava spaventato lungo una strada a scorrimento veloce, dopo che la sua mamma è stata investita e purtroppo non ce l'ha fatta.\n\nNonostante tutto, questo piccolo ha un cuore grande: è dolcissimo, affettuoso e ha già imparato a fidarsi dell’uomo. Sta crescendo forte e curioso, ama il contatto umano e cerca continuamente coccole e sicurezza.\n\nSarà affidato vaccinato e microchippato, futura taglia piccola (circa 6–8 kg da adulto).\n\nHa bisogno di una famiglia che possa dargli l’amore e la stabilità che la vita finora gli ha negato.",
+      "image": "https://media.istockphoto.com/id/1023895818/it/foto/donna-irriconoscibile-sta-giocando-con-il-cucciolo-allaperto.jpg?s=612x612&w=0&k=20&c=p0YGlFAa7OfVqy4JxQ9Dq2D-IEtCVFBXLqKCcVz7xVY=",
+      "sex": "Maschio"
+    },
+    {
+      "id": "3d1d",
+      "name": "Luna",
+      "age": "7 mesi",
+      "description": "Questa adorabile cucciola simil Jack Russel, ha circa 7 mesi ed è una vera esplosione di dolcezza e curiosità!Ama giocare e si trova bene con altri cani e gatti, Si tratta di una futura taglia piccola (circa 6–8 kg da adulto) Verrà affidata vaccinata, sverminata e microchippata.",
+      "image": "https://media.istockphoto.com/id/1415444647/it/foto/jack-russell-terrier-cucciolo-sullerba-il-cucciolo-jack-russell-terrier-gioca-nel-primo-piano.jpg?s=612x612&w=0&k=20&c=v9mH4u09ZINT3dpgY66WgFIrQeqG_sRAXNkUGvm8sy8=",
+      "sex": "Femmina"
+    },
+    {
+      "id": "bc51",
+      "name": "Oliver",
+      "age": "3 mesi",
+      "description": "Oliver è un cucciolo di circa 4 mesi, dolce e dallo sguardo profondo, una mattina l’abbiamo trovato davanti al cancello del rifugio.\n\nOliver è un simil Golden Retriever di futura taglia media (peso stimato 25–35 kg da adulto). \n\nÈ socievole, affettuoso e adora stare in compagnia: appena ti avvicini, scodinzola e si accoccola vicino, come se cercasse conferme e sicurezza.\n\nVerrà affidato vaccinato, sverminato e microchippato, con iter sanitario completo.",
+      "image": "https://images.unsplash.com/photo-1507146426996-ef05306b995a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y3VjY2lvbG98ZW58MHx8MHx8fDA%3D",
+      "sex": "Maschio"
+    },
+    {
+      "id": "e5ce",
+      "name": "Kira",
+      "age": "11 anni",
+      "description": "Kira è una taglia media di 15 kg è stata abbandonata per la sua malattia, soffre i insufficienza renale cronica (malattia degenerativa ma gestibile), che richiede solo controlli regolari e una dieta specifica. \n\nÈ compatibile con altri cani tranquilli, ama le coccole, non abbaia quasi mai, verrà affidata con microchip, vaccinazioni e tutte le indicazioni veterinarie per la sua gestione. ",
+      "image": "https://media.istockphoto.com/id/530842163/it/foto/attento-senior-cane.webp?a=1&b=1&s=612x612&w=0&k=20&c=TIqOCi4suR_oY3GjI028d_IcVag40gSFYn7Xk8ujIGw=",
+      "sex": "Femmina"
+    },
+    {
+      "id": "5054",
+      "name": "Tobia",
+      "age": "5 anni",
+      "description": "Tobia ha 5 anni, pesa 12 kg ed è un meraviglioso cane di taglia media.\n\nFino a poco tempo fa viveva in famiglia, ma la sua vita è cambiata in un attimo: un incidente stradale lo ha segnato per sempre, portandogli via la zampa anteriore sinistra.\n\nDopo l’operazione, Tobia ha lottato come un vero guerriero per rimettersi in piedi. Ma quando è arrivato il momento di tornare a casa… quella casa non lo voleva più. I suoi ex proprietari hanno deciso di non prendersene più cura. Forse perché non più “perfetto”, forse perché “troppo impegnativo”.\n\nOggi Tobia è con noi in rifugio e non si è arreso, cammina e corre anche!\nSi trova bene con altri cani ma è preferibile non ci siano gatti, verrà affidato vaccinato, microchippato e con tutte le informazioni veterinarie per la gestione post-trauma (si tratta solo di una formalità poichè adesso è in perfetta salute!).\n",
+      "image": "https://media.istockphoto.com/id/1419806672/it/foto/cane-di-razza-mista-disabile-che-gioca-nel-parco-pubblico.webp?a=1&b=1&s=612x612&w=0&k=20&c=4yLnBhA253CLF-y-5Ad04fnNoDpJd2mKsv7IUo8UA4U=",
+      "sex": "Maschio"
+    },
+    {
+      "id": "d0a6",
+      "name": "Zoe",
+      "age": "1 anno",
+      "description": "Zoe è un Husky di 1 anno, pesa 22 kg ed è una taglia medio-grande, agile e scattante.\n\nÈ arrivata in rifugio dopo essere stata abbandonata per il suo carattere forte e difficile da gestire. Ma chi conosce questa razza sa bene che il comportamento di un Husky non è un “difetto”, ma una caratteristica naturale: indipendente, testarda, energica e sempre in cerca di stimoli.\n\nZoe non è il cane per tutti, ma non è un caso irrecuperabile.  Con l'affiancamento di un istruttore cinofilo e una guida coerente, può diventare una compagna straordinaria: fedele, leale e profondamente affettuosa con chi conquista la sua fiducia.\n\nPer il suo benessere, non è compatibile con altri cani o gatti, e ha bisogno di una famiglia esperta o motivata a farsi seguire da un professionista, che le offra spazio, attività mentale e regole chiare.\n\nVerrà affidata vaccinata, sterilizzata e microchippata, solo dopo colloquio conoscitivo e con percorso di inserimento guidato",
+      "image": "https://plus.unsplash.com/premium_photo-1667673941713-ad4d4751c93b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNhbmV8ZW58MHx8MHx8fDA%3D",
+      "sex": "Femmina"
+    },
+    {
+      "id": "d146",
+      "name": "Aaron e Jack",
+      "age": "2 mesi",
+      "description": "Aaron e Jack simil Mastini Tibetani, sono una taglia grande e da adulti peseranno circa 50-60 kg, hanno 2 mesi e sono fratelli.\n\nCaratterialmente sono equilibrati, docili con le persone e molto legati tra loro, per questo si cerca per loro un’adozione di coppia, preferibilmente con ampi spazi esterni e persone consapevoli della razza e delle sue esigenze.\n\nSono già sterilizzati, vaccinati e microchippati.",
+      "image": "https://media.istockphoto.com/id/180081334/it/foto/mastino-tibetano-fritta.webp?a=1&b=1&s=612x612&w=0&k=20&c=poDAXRAdi2AtmS8j8rAAGfL52APmyijyPjbH6W_Jaag=",
+      "sex": "Maschio"
+    },
+    {
+      "id": "4a68",
+      "name": "Toby",
+      "age": "13 anni",
+      "description": "Toby ha 13 anni simil Pitbull. che ha ancora tanta voglia di vivere è un cane di taglia media e pesa circa 25 kg.\n\nLo abbiamo trovato legato al guardrail di una strada a scorrimento veloce, in attesa che qualcuno tornasse indietro a prenderlo. Ma nessuno è mai tornato.\n\nToby è ancora in buona salute: ama passeggiare con calma, osservare il mondo e ricevere carezze. È un cane tranquillo, dolce, silenzioso.\n\nVerrà affidato vaccinato, microchippato e con tutti i controlli veterinari aggiornati.",
+      "image": "https://images.unsplash.com/photo-1651777229439-beef9fda852f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2FuZSUyMGFuemlhbm98ZW58MHx8MHx8fDA%3D",
+      "sex": "Maschio"
+    },
+    {
+      "id": "e0db",
+      "name": "Pippo",
+      "age": "14 anni",
+      "description": "Pippo ha 14 anni è un cagnolino di taglia piccola pesa circa 7 kg, ed è un meticcio con chihuahua.\n\nHa vissuto tutta la sua vita in canile, senza mai conoscere il calore di una casa.\nNonostante tutto, Pippo è ancora vivo dentro: ha uno sguardo dolce, una forza silenziosa e il desiderio – semplice e profondo – di essere finalmente scelto.\nNon chiede molto: un angolo morbido dove dormire, una carezza la sera, una voce che lo chiami per nome.\n\nPippo è in salute per la sua età, compatibile con persone tranquille, ama la calma e la compagnia. Verrà affidato microchippato, vaccinato e con controlli veterinari aggiornati.\n\nNon lasciamolo morire senza sapere cosa significhi essere amato.\n\n",
+      "image": "https://images.unsplash.com/photo-1598565721109-6770017f279a?w=300&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+      "sex": "Maschio"
+    }
+  ]
+}
