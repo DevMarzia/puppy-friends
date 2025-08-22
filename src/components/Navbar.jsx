@@ -49,7 +49,7 @@ function Navbar() {
         </div>
 
         {/* Desktop Menu */}
-        <ul className="hidden lg:flex items-center gap-6 text-lg">
+        <ul className="hidden md:flex items-center gap-6 text-lg">
           <li>
             <Link to={`/`}>Home</Link>
           </li>
@@ -83,7 +83,7 @@ function Navbar() {
         </ul>
 
         {/* Mobile Menu Icon */}
-        <div className="lg:hidden flex items-center">
+        <div className="md:hidden flex items-center">
           <img
             src={toggle ? close : menu}
             alt="menu"
