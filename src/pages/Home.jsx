@@ -1,6 +1,6 @@
 import React from "react";
 import Hero from "../components/Hero";
-import HeroImg2 from "../assets/heroImg.jpg";
+import HeroImg2 from "../assets/HeroImg.jpg";
 import Footer from "../components/Footer";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
